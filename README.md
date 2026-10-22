@@ -62,7 +62,7 @@ A Flutter application for browsing movies and viewing movie details.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/mohamedmonge58-create/movies_app
    ```
 
 2. Navigate to the project directory:
