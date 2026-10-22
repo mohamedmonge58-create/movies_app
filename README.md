@@ -47,21 +47,39 @@ A Flutter application for browsing movies, searching for titles, exploring movie
 
 ## ✨ Features
 
-### 🎬 Movie Discovery
-- Browse movies through the home screen.
-- Explore movies using the browsing screen.
-- Search for movies by title.
-- Open movie details to learn more about a selected movie.
+### 🚀 App Launch
+- Splash screens that introduce the application before users access its main features.
 
-### 🔐 Authentication
-- Login screen.
-- Create account screen.
-- Reset password screen.
+### 🔐 Authentication & Account Management
+- **Login:** Screen for existing users to access their accounts.
+- **Create Account:** Interface for new users to create an account.
+- **Reset Password:** Screen for users who need to reset their password.
+- Dedicated authentication interfaces for a clear and organized user experience.
+
+### 🏠 Home & Movie Discovery
+- **Home Screen:** Main entry point for exploring the movie collection.
+- **Browse Screen:** Dedicated interface for discovering available movies.
+- Organized movie-browsing experience that makes it easier to explore titles.
+
+### 🔎 Movie Search
+- **Search Screen:** Dedicated screen for searching for movies.
+- Search interface that helps users find specific movie titles.
+
+### 🎞️ Movie Details
+- Dedicated movie details screens for exploring a selected movie.
+- Separate detail views to present movie-related information.
+- Navigation from movie browsing to individual movie details.
 
 ### 👤 Profile Management
-- View the user profile.
-- Access the edit profile screen.
+- **Profile Screen:** Interface for viewing the user's profile.
+- **Edit Profile:** Dedicated screen for editing profile information.
+- Separate profile and editing screens for a more organized account experience.
 
+### 🎨 User Interface
+- Dedicated screens for authentication, movie discovery, movie details, and profile management.
+- Consistent Flutter-based mobile interface.
+- Organized navigation between the application's main sections.
+- 
 ## 🛠️ Built With
 
 - **Flutter** — Cross-platform application development.
