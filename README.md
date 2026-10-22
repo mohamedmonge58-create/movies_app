@@ -1,6 +1,6 @@
-# Movies App 🎬
+# 🎬 Movies App
 
-A Flutter application for browsing movies and viewing movie details.
+A Flutter application for browsing movies, searching for titles, exploring movie details, and managing user profile information through a clean and user-friendly interface.
 
 ## 📱 Screenshots
 
@@ -45,10 +45,27 @@ A Flutter application for browsing movies and viewing movie details.
   <img src="screenshots/edit%20profile.png" alt="Edit Profile Screen" width="180">
 </p>
 
+## ✨ Features
+
+### 🎬 Movie Discovery
+- Browse movies through the home screen.
+- Explore movies using the browsing screen.
+- Search for movies by title.
+- Open movie details to learn more about a selected movie.
+
+### 🔐 Authentication
+- Login screen.
+- Create account screen.
+- Reset password screen.
+
+### 👤 Profile Management
+- View the user profile.
+- Access the edit profile screen.
+
 ## 🛠️ Built With
 
-- Flutter
-- Dart
+- **Flutter** — Cross-platform application development.
+- **Dart** — Application programming language.
 
 ## 🚀 Getting Started
 
@@ -56,13 +73,14 @@ A Flutter application for browsing movies and viewing movie details.
 
 - Flutter SDK
 - Dart SDK
+- Android Studio or Visual Studio Code
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohamedmonge58-create/movies_app
+   git clone https://github.com/mohamedmonge58-create/movies_app.git
    ```
 
 2. Navigate to the project directory:
@@ -85,5 +103,10 @@ A Flutter application for browsing movies and viewing movie details.
 
 ## 👨‍💻 Author
 
-Add the project author's name and profile link here.
+**Mohamed Ibrahim Monge**
 
+- GitHub: [@mohamedmonge58-create](https://github.com/mohamedmonge58-create)
+
+---
+
+Built with Flutter 💙
